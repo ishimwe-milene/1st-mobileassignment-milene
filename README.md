@@ -15,3 +15,4 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 ![image](https://github.com/ishimwe-milene/1st-mobileassignment-milene/assets/130443783/96d1b93c-f2ef-4d44-81b6-9d78c01be828)
+This program is about a mobile calculator.
